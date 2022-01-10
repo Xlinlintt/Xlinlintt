@@ -1,4 +1,4 @@
-### Hi there 👋
+# “A different language is different vision of life.” – Federico Fellini “每种不同的语言都是一种不同的生活视角。” ——费德里科·费里尼 👋
 
 <!--
 **Xlinlintt/Xlinlintt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
